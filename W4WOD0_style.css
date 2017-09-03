@@ -1,0 +1,43 @@
+#a001{
+  background-color:green;
+  width:400px;
+  padding: 25px;
+  margin: 0 auto;
+}
+
+
+#a002{
+  background-color:grey;
+  padding:25px;
+  text-align:justify;
+  border: 25px groove yellow;
+}
+
+.div1{
+	margin:0 auto; 
+	width:40%; 
+	text-align:center;
+	background-color:#6D253E;
+	color:white;
+	font-size:50px;
+	padding:20px 0 100px 0;
+	
+}
+
+
+.div2{
+	width:50%; 
+	margin:0 auto;
+	border:5px double #AF1C4F;
+	padding:10px 10px 30px 10px;
+	font-family: 'Montserrat',	sans-serif;
+	text-align:center;
+	
+}
+
+.img1{
+	width:80%;
+	margin: auto;
+	display: block;
+	
+}
